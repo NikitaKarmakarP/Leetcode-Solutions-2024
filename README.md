@@ -140,6 +140,7 @@ This repository serves as:
 19. Mac Chunks to make Sorted(19th dec)
 20. Reverse Odd Levels of Binary Tree(20th dec)
 21. Maximum Number of K-Divisible Components(21th dec)
+22. Find Building Where Alice and Bob Can Meet(22nd dec)
 
 ## How to Explore  
 
