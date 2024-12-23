@@ -141,6 +141,7 @@ This repository serves as:
 20. Reverse Odd Levels of Binary Tree(20th dec)
 21. Maximum Number of K-Divisible Components(21th dec)
 22. Find Building Where Alice and Bob Can Meet(22nd dec)
+23. Minimum Number of Operations to Sort a Binary Tree by Level(23rd dec)
 
 ## How to Explore  
 
