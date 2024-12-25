@@ -143,6 +143,7 @@ This repository serves as:
 22. Find Building Where Alice and Bob Can Meet(22nd dec)
 23. Minimum Number of Operations to Sort a Binary Tree by Level(23rd dec)
 24. Find Minimum Diameter After Merging Two Trees(24th dec)
+25. Find Largest Value in Each Tree Row(25th dec)
 
 ## How to Explore  
 
