@@ -144,6 +144,7 @@ This repository serves as:
 23. Minimum Number of Operations to Sort a Binary Tree by Level(23rd dec)
 24. Find Minimum Diameter After Merging Two Trees(24th dec)
 25. Find Largest Value in Each Tree Row(25th dec)
+26. Target Sum(26th dec)
 
 ## How to Explore  
 
