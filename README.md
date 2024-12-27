@@ -145,6 +145,7 @@ This repository serves as:
 24. Find Minimum Diameter After Merging Two Trees(24th dec)
 25. Find Largest Value in Each Tree Row(25th dec)
 26. Target Sum(26th dec)
+27. Best Sightseeing Pair(27th dec)
 
 ## How to Explore  
 
