@@ -146,6 +146,7 @@ This repository serves as:
 25. Find Largest Value in Each Tree Row(25th dec)
 26. Target Sum(26th dec)
 27. Best Sightseeing Pair(27th dec)
+28. Maximum Sum of 3 Non-Overlapping Subarrays(28th dec)
 
 ## How to Explore  
 
