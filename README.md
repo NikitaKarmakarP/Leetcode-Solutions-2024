@@ -147,6 +147,7 @@ This repository serves as:
 26. Target Sum(26th dec)
 27. Best Sightseeing Pair(27th dec)
 28. Maximum Sum of 3 Non-Overlapping Subarrays(28th dec)
+29. Number of Ways to Form a Target String Given a Dictionary(29th dec)
 
 ## How to Explore  
 
