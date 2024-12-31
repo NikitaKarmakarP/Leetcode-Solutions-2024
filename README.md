@@ -149,6 +149,7 @@ This repository serves as:
 28. Maximum Sum of 3 Non-Overlapping Subarrays(28th dec)
 29. Number of Ways to Form a Target String Given a Dictionary(29th dec)
 30. Count Ways To Build Good Strings(30th dec)
+31. Minimum Cost For Tickets(31th dec)
 
 ## How to Explore  
 
