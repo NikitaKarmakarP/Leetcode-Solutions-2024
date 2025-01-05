@@ -1,4 +1,4 @@
-# Leetcode Solutions: My Coding Journey 💻
+# Leetcode Solutions-2024: My Coding Journey of 2024💻
 
 🚀 Welcome to my **Leetcode Solutions Repository**! This repository is a collection of solutions to problems I've tackled on Leetcode, showcasing my problem-solving skills, algorithms, and coding journey.
 
